@@ -10,7 +10,7 @@ In special cases there are tours that will demand different payment plan, these 
 
 ####2. Price, Taxes and Fees
 
-All transactions are in Euros, Portugal legal tender. All shown prices include all Portuguese taxes, Government fees, except where noted. Wind Birds, Lda operates and supplies in Madeira Islands, therefore it pays all taxes to Madeira Regional Government. No tours/trips are exempt of VAT, though it is included in the prices shown. 
+All transactions are in Euros, Portugal legal tender. All shown prices include all Portuguese taxes, Government fees, except where noted. Wind Birds, Lda operates and supplies in Madeira Islands, therefore it pays all taxes to Madeira Regional Government. No tours/trips are exempt of VAT, though this tax value is included in the prices shown. 
 
 Invoices are processed no later than 5 days of the service or the payment, which ever comes first. Details of lead traveller are filled as purchasing entity and can not be changed after the invoice is issued. Therefore, if you desire an invoice with a diferent purchasing entity you need to request it in advance (e.g. time of booking). 
 
@@ -18,23 +18,23 @@ Invoices are processed no later than 5 days of the service or the payment, which
 
 Any cancellation by you of a definite booking must be notified to us in writing (email is acceptable) or by phone and will take effect on the day that this is received by us. The following scale of cancellation charges will normally be applied, based on our estimated expenses and losses suffered as a result of your cancellation: 
 - Over 3 days before the land tour: no costs to you
- - 2 to 1 day before the tour: 100% of your deposit
- - On the day of the tour or later: 100% of final tour price
+- 2 to 1 day before the tour: 100% of your deposit
+- On the day of the tour or later: 100% of final tour price
 
- The above rules do not apply to Deep Sea Pelagics (e.g. Zino's Petrel Sea Expedition). In this case all bookings are definitive and no refunds are possible for booking cancellations, though name change of the booking holder is possible.
+The above rules do not apply to Deep Sea Pelagics (e.g. Zino's Petrel Sea Expedition). In this case all bookings are definitive and no refunds are possible for booking cancellations, though name change of the booking holder is possible.
 Bookings Date Change
 
 If you wish to transfer your booking to another day this will normally be treated as a cancellation and rebooking, and the relevant cancellation charges will apply.
 
 ####4. Trip or Tour Cancellation
 
-If hazard weather conditions occur, we can try to reschedule your tour to the nearest date possible, though not changing other tours previously booked to other customers. If the tour does not happen we will refund you on 100%. We reserve the right to cancel any trip for which there are insufficient reservations before the departure date. In case of this type cancellation, all deposits and other payments for the tour or tour extension will be refunded. 
+If hazard weather conditions occur, we can try to reschedule your tour to the nearest date possible, though not changing other tours previously booked to other customers. If the tour does not happen we will refund you on 100%. In case of this type cancellation, all deposits and other payments for the tour or tour extension will be refunded. 
 
 We may have to cancel your tour in the event of unusual or unforeseen circumstances outside our control (i.e. casus fortuitus): for example, technical problems with the boat or van, government action, war or threat of war, civil strife, terrorist activity, riot, natural or man-made disaster, disease outbreak, or severe weather conditions. In the event that we have to cancel a tour/trip due to circumstances outside our control we shall refund to you.
 
 ####5. Trip or Tour Status
 
-Full and transparent communication is the best way to trust in business. All tour status is broadcast via twitter.com/windbirds. As an extra we will contact via one of the following means and in this order: short message (i.e. SMS) to mobile phone on file or hotel reception message (i.e. fax or phone call) or by booking email. 
+Full and transparent communication is the best way to trust in business. All tour status is broadcast via twitter.com/windbirds. As an extra we will contact via one of the following means and in this order: short message (i.e. SMS) to mobile phone on file or hotel reception message (i.e. fax or phone call) or by the email supplied during booking process. 
 
 We advise you that prior to the tour you check our status website, in case of apparent bad weather we recommend that you call us +351 917777441 to check to status.
 
@@ -65,38 +65,40 @@ Swimming with wild animals (i.e. whales and dolphins) requires the capability to
 ####10. Use of Safety Equipment
 
 Marine Lifejackets use is mandatory in Rigid Inflatable Boats, though in the swimming with dolphins trips you are allowed to remove the lifejacket before swim.
-Discharge of Pressurize Air into the Lifjackets
+
+####11. Discharge of Pressurize Air into the Lifjackets.
 
 To offer better comfort to our customer we use pressurized air lifejackets in our sea operation. The discharge of the pressurized air lifejackets in situations that are not emergencies (e.g. negligence, accidental, kids play, fun...) incur in a fee of €25 per life jacket, to cover service costs.
 
-####11. Movement of Goods
+####12. Movement of Goods
 
 No goods are allowed to be transported without written consent and in complaince with Portuguese Law. By these we mean that all that comes into the vans and boats at start point can only leave at finish point. (e.g. Not leaving anything in Desertas Islands, not bringing anything from Desertas Islands). In other words no smuggling.
-Forbidden Consumption
+
+####13. Forbidden Consumption
 
 Including the substances and drinks forbidden under Portuguese Law, applicable even in International Waters, Alcohol and Tobacco cannot be consumed inside the vans and rigid inflatable boats.
 
-####12. CCTV
+####14. CCTV
 
 Closed-circuit television is use on specific land and sea trips. The filmed material can be used for law enforcement or Wind Birds video broadcasts. Video rights remain of Wind Birds.
 Economic Espionage & Wildlife Risk
 
 We take our economic activity and the protection of wildlife seriously, therefore if at any point we come across economic espionage (e.g. doing a tour to later operate against us), we will take the proper legal action and report to criminal police. In case of present or future wildlife risk (e.g. doing a tour to obtain location of eggs for later stealing them), again we will take the proper legal action and report to criminal police. Both acts under Portuguese law are serious criminal offenses and you may face imprisonment until present in Court. There will be no refunds on these circumstances.
 
-####13. External Observer/Researcher/Law Enforcement Agent Charge
+####15. External Observer/Researcher/Law Enforcement Agent Charge
 
 A person that is not our staff or a customer for recreation purpose, which travels on our boats and vans for an external professional reason (e.g. research funded by EU, law enforcement in mission...), that records by any form, any information related to vessel/vehicle, geo location, audio, video and other forms of media, as well species, technical and other data is demanded to pay €250 (two hundred and fifty euros) per hour. And in slots of an hour (i.e. for a trip of 2h10 minutes shall pay 3 hour slots, that is €750). Such travels have to be authorize by Wind Birds, Lda management and fully paid 48 hours in advance.
 
-####14. Social Media
+####16. Social Media
 
 During all services Wind Birds, Lda records and broadcast media. Such media appears in several social media platforms, so there is the possibility that others outside our service recognize you.
 
-####15. Short Communications and Scientific Publications
+####17. Short Communications and Scientific Publications
 
 In the event of important findings for the scientific community within our tours/trips, all short communications and scientific publications have to be approved by Wind Birds, Lda management. All information will be deemed confidential till proper publication.
 
-####16. Freira.org
+####18. Freira.org
 
 Freira Conservation Project manages the content of freira.org. Wind Birds, Lda supports financially for the operation of this website, Catarina Fagundes and Hugo Romano contribute with content.
 
-_Valid from January 1, 2013 v2.6_
+_Valid from March 1, 2013 v2.7_
