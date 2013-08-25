@@ -1,4 +1,0 @@
-policies
-========
-
-Wind Birds Policies
