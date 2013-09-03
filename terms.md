@@ -17,9 +17,10 @@ Invoices are processed no later than 5 days of the service or the payment, which
 ####3. Booking Cancellation
 
 Any cancellation by you of a definite booking must be notified to us in writing (email is acceptable) or by phone and will take effect on the day that this is received by us. The following scale of cancellation charges will normally be applied, based on our estimated expenses and losses suffered as a result of your cancellation: 
-- Over 3 days before the land tour: no costs to you
-- 2 to 1 day before the tour: 100% of your deposit
-- On the day of the tour or later: 100% of final tour price
+
+* Over 3 days before the land tour: no costs to you
+* 2 to 1 day before the tour: 100% of your deposit
+* On the day of the tour or later: 100% of final tour price
 
 The above rules do not apply to Deep Sea Pelagics (e.g. Zino's Petrel Sea Expedition). In this case all bookings are definitive and no refunds are possible for booking cancellations, though name change of the booking holder is possible.
 
@@ -105,16 +106,24 @@ Under Portuguese Law documents electronically signed by our management with "Car
 
 A person that is not our staff or a client for recreation purpose, which travels on our boats and vans for an external professional reason (e.g. research funded by EU, law enforcement in mission...), that records by any form, any information related to vessel/vehicle, geo location, audio, video and other forms of media, as well species, technical and other data is demanded to pay €250 (two hundred and fifty euros) per hour. And in slots of an hour (i.e. for a trip of 2h10 minutes shall pay 3 hour slots, that is €750). Such travels have to be authorise by Wind Birds, Lda management and fully paid 48 hours in advance.
 
-####19. Social Media
+####19. Mobile Alerts
+
+Wind Birds, Lda provides mobile alert service, these guarantees that subscribed clients receive up to date information on tour and hazard status. The service is provided to all clients that have validated their mobile phone number. Service might fail if the client hasn't subscribed properly to roaming mobile service with its mobile operator.
+
+####20. Social Media
 
 During all services Wind Birds, Lda records and broadcast media. Such media appears in several social media platforms, so there is the possibility that others outside our service recognise you.
 
-####20. Short Communications and Scientific Publications
+####21. Short Communications and Scientific Publications
 
 In the event of important findings for the scientific community within our tours/trips, all short communications and scientific publications have to be approved by Wind Birds, Lda management. All information will be deemed confidential till proper publication.
 
-####21. Freira.org
+####22. Freira.org
 
 Freira Conservation Project manages the content of freira.org. Wind Birds, Lda supports financially for the operation of this website, Catarina Fagundes and Hugo Romano contribute with content.
 
-_Valid from July 1, 2013 v2.8_
+####22. MadeiraBirds.com & AvesdaMadeira.com
+
+These two birdwatching information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contributed with their records and data. Wind Birds, Lda will watermark materials provided with the copyright owner name. The platforms try to provide accurate information, but in some cases mistakes can occur. It all provided on "As Is Basis".
+
+_Valid from September 1, 2013 v2.9 https://windbirds.co/terms https://windbirds.co/archivum/terms-v29.pdf_
