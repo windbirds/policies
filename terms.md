@@ -1,4 +1,4 @@
-#Terms of Service
+# Terms of Service
 
 There is no small print on this page. The booking conditions and general information set out below are designed to outline our obligations to you and your commitments to us as clearly as possible. Please read them carefully before booking. We want you to have an enjoyable Wind Birds tour/trip, and the avoidance of any misunderstanding is to our mutual advantage. You should be prepared to cope with unusual situations, local inadequacies and unpredictable events as and when they occur.
 
@@ -16,13 +16,13 @@ Invoices are processed no later than five days of the service or the payment, wh
 
 #### Booking Cancellation
 
-Any cancellation by you of a booking must be notified to us in writing (email) or by a phone call and will take effect immediately,  the following cancellation charges are applied, based on our estimated expenses and losses suffered as a result of your cancellation:
+Any cancellation by you of a booking must be notified to us in writing (email) or by a phone call and will take effect immediately, the following cancellation charges are applied, based on our estimated expenses and losses suffered as a result of your cancellation:
 
 * Over 72 hours before the land tour: no costs to you
 * 72 to 24 hours before the tour: 100% of your deposit
 * On the 24 hours before the tour: 100% of final tour price
 
-The above rules do not apply to Deep Sea Pelagics (e.g. Zino's Petrel Sea Expedition). In this case, all bookings are definitive, and no refunds are possible for booking cancellations, although name change of the booking holder is possible.
+The above rules do not apply to Deep Sea Pelagics (e.g. Zino's Petrel Sea Expedition), in this case, all bookings are definitive, and no refunds are possible for booking cancellations, although name change of the booking holder is possible.
 
 #### Bookings Date Change
 
@@ -55,11 +55,11 @@ On a refund, initiated by a client cancellation, if there are processing fees to
 Any medical problems and/or related dietary restrictions must be informed to us on the reservation or prior to your tour. It is extremely important to our staff to have this knowledge in the case of any arising problems.
 
 Our prices include a personal accident and civil liability insurance, provided by a legally registered insurer in "Autoridade de Supervis&atilde;o de Seguros e Fundos de Pens&otilde;es", with the following coverage:
- - Civil liability at sea: 200 000 EUR‚¬
- - Civil liability in land: 50 000 EUR‚¬
- - Death or permanent disability in land: 35 000 EUR‚¬
- - Death or permanent disability at sea: 20 000 EUR‚¬
- - Hospitality expenses and repatriation: 3 500 EUR‚¬
+ - Civil liability at sea: 200 000 €
+ - Civil liability in land: 50 000 €
+ - Death or permanent disability in land: 35 000 €
+ - Death or permanent disability at sea: 20 000 €
+ - Hospitality expenses and repatriation: 3 500 €
 
 If you desire higher coverages or different, you should contract a travel insurance.
 
@@ -71,17 +71,30 @@ Birds, Mammals and Flora: The species mentioned in the trip itineraries are mean
 
 #### Restrictions on Participants
 
-Restrictions on participants are a matter of common sense, and we have no absolute ones. If you have a health problem or any physical limitation which may hamper or restrict your full involvement in any aspect of the tour, or about which we should be aware of your safety (e.g. walking difficulties, diabetes, asthma, angina, etc.), please advise us previously to the tour or trip. We may provide any information that you or your doctor may need to judge your capacity to participate fully in the tour. Please note that we do not allow the collecting of plants or animals during any tour.
+Restrictions on participants are a matter of common sense, and we have no absolute ones. If you have a health problem or any physical limitation which may hamper or restrict your full involvement in any aspect of the tour, or about which we should be aware of your safety (e.g. walking difficulties, diabetes, asthma, angina, dementia, etc.), please advise us previously to the tour or trip. We may provide any information that you or your doctor may need to judge your capacity to participate fully in the tour.
 
 Swimming with wild animals (i.e. whales and dolphins) requires the capability to swim in the ocean without external assistance, good sea conditions and the animals cannot be stressed. Staff may at last minute cancel swimming activity for security reasons.
+
+Please note that we do not allow the collecting of plants or animals during any tour.
+
+#### Refusal of Unaccompanied Minors
+
+Wind Birds does not accept bookings for Unaccompanied Minors (0 to 15 years old). All minors have to be accompanied by their adult friends or family, people that the minor trusts and assumes responsibility of the minors actions.
+Minors that are 16 to 17 year old, parents or legal guardians can sign a waiver form taking responsibility for the minor action, though we recommend that know adults are present.
 
 #### Use of Safety Equipment
 
 Marine Lifejackets use is mandatory in Rigid Inflatable Boats, though in the swimming with dolphins trips you are allowed to remove the lifejacket before the swim.
 
+Use of seat belts in cars are mandatory by law and must be used at all times, they can only be unfasten until the car is safely parked.
+
+Opening of car doors before a complete stop is also illegal.
+
+Declining to use safety equipment or not using properly, removes us from any liability compensation in case of accident.
+
 #### Discharge of Pressurized Air into the Lifejackets.
 
-To offer better comfort to our client we use pressurised air lifejackets in our sea operation. The discharge of the pressurised air lifejackets in situations that are not emergencies (e.g. negligence, accidental, kids play, fun) incur in a fee of â‚¬25 per life jacket, to cover service costs.
+To offer better comfort to our client we use pressurised air lifejackets in our sea operation. The discharge of the pressurised air lifejackets in situations that are not emergencies (e.g. negligence, accidental, kids play, fun) incur in a fee of €25 per life jacket, to cover service costs.
 
 #### Movement of Goods
 
@@ -111,11 +124,11 @@ This compliance guarantees that we are not a client financial data breach point.
 
 The website [windbirds.co](https://windbirds.co/) with a valid SSL Certificate holds legal documents for Wind Birds, Lda and guarantees secure communication between clients and us.
 
-Under Portuguese Law documents electronically signed by our management with "Cartao de CidadÃ£o" (Portuguese Citizen iD Card) have legal value. A copy of such document is stored on windbirds.co and is accessible via QR Code imprinted on the document. Note that this documents to be valid require as well to be digital sign by an Timestamping Authority.
+Under Portuguese Law documents electronically signed by our management with "Cartao de Cidadão" (Portuguese Citizen iD Card) have legal value. A copy of such document is stored on windbirds.co and is accessible via QR Code imprinted on the document. Note that this documents to be valid require as well to be digital sign by an Timestamping Authority.
 
 #### External Observer/Researcher/Law Enforcement Agent Charge
 
-A person that is not our staff or a client for recreation purpose, which travels on our boats and vans for an external professional reason (e.g. research funded by EU, law enforcement in mission.), that records by any form, any information related to vessel/vehicle, geolocation, audio, video and other forms of media, as well species, technical and other data is demanded to pay two hundred and fifty euros per hour. Moreover, in slots of an hour (i.e. for a trip of 2h10 minutes shall pay 3-hour slots, that is â‚¬750). Such travels have to be authorised by Wind Birds, Lda management and fully paid 48 hours in advance. That person is required to contract an independent personal accident insurance, as Wind Birds, Lda insurances do not cover non-leisure activities.
+A person that is not our staff or a client for recreation purpose, which travels on our boats and vans for an external professional reason (e.g. research funded by EU, law enforcement in mission.), that records by any form, any information related to vessel/vehicle, geolocation, audio, video and other forms of media, as well species, technical and other data is demanded to pay two hundred and fifty euros per hour. Moreover, in slots of an hour (i.e. for a trip of 2h10 minutes shall pay 3-hour slots, that is €750). Such travels have to be authorised by Wind Birds, Lda management and fully paid 48 hours in advance. That person is required to contract an independent personal accident insurance, as Wind Birds, Lda insurances do not cover non-leisure activities.
 
 #### Mobile Alerts
 
@@ -137,4 +150,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It all provided on "As Is Basis".
 
-_Valid from May 30, 2017 v3.0.1_
+_Valid from September 30, 2018 v3.1.0_
