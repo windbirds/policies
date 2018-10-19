@@ -120,6 +120,10 @@ The stored data still allows us to recharge the client credit/debit card in the 
 
 This compliance guarantees that we are not a client financial data breach point.
 
+#### Lost Property
+
+ In the unfortunate event of lost property, clients of the specific tour will be contacted. Returning lost property generates a cost, the client is responsible for these costs.
+
 #### Digital Certificates & Timestamping
 
 The website [windbirds.co](https://windbirds.co/) with a valid SSL Certificate holds legal documents for Wind Birds, Lda and guarantees secure communication between clients and us.
@@ -150,4 +154,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It all provided on "As Is Basis".
 
-_Valid from September 30, 2018 v3.1.0_
+_Valid from October 19, 2018 v3.2.0_
