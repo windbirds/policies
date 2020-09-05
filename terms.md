@@ -112,6 +112,20 @@ Closed-circuit television is use on particular land and sea trips. The filmed ma
 
 We take our business and the protection of wildlife seriously, therefore if at any point we come across industrial espionage (e.g. doing a tour to later operate against us), we will take the proper legal action and report to criminal police. In the case of present or future wildlife risk (e.g. doing a tour to obtain the location of eggs for later stealing them), again we will take the proper legal action and report to criminal police. Both acts under Portuguese law are serious crimes, and you may face imprisonment until presented in Court. There will be no refunds on these circumstances.
 
+#### Anti-corruption
+
+You as a customer or potential customer will not receive or will be offered any bribe, kickback, payment, gift, or thing of value from any of our employees or agents in connection with our company. Reasonable gifts and entertainment provided in the ordinary course of business operation do not violate the above restriction (e.g. souvenir, merchandising, digital services). We extend this policy to members of the public, politicians and finance sector, where our services cannot be offered for free or at a rebate.
+
+#### Political Campaign Activities
+
+Our services and media content cannot be used for political campaign activities or political parties gain, nor we provide those services. The services provided by the public sector are apolitical, and we would like to keep them that way.
+
+#### Nondiscriminatory Pricing
+
+Prices and services are provided in a non-discriminatory standard, i.e. equal price regardless of origin, residence, the gender of the clients. The opposite is a common practice among travel businesses but forbidden under law, report it to authorities and EU SOLVIT.
+
+Discounts may be provided in some services based on the selling channel or for minors, based on their age. 
+
 #### PCI SSC Data Security Standards Compliance
 
 To provide a real-time payment and booking system Wind Birds, Lda complies with PCI-SSC DSS. Therefore we do not store financial records and payment card data. All this information is transmitted between the client browser and our bank. For our record, we keep the transaction authorization hash code, amounts charged and timestamp.
@@ -154,4 +168,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It all provided on "As Is Basis".
 
-_Valid from October 19, 2018 v3.2.0_
+_Valid from September 1, 2020 v3.3.0_
