@@ -6,13 +6,13 @@ There is no small print on this page. The booking conditions and general informa
 
 Reservations for tours require a variable deposit per person per tour, paid by credit or debit card (VISA, MasterCard, American Express) on a secure link that we e-mail to you. After receiving the deposit, we will give you our final confirmation and details of the tour. If no deposit has was paid, there is not a legal collateral, therefore Wind Birds, Lda cannot be accountable for possible bookings. A simple communication (e.g. email, phone, fax) without a paid deposit does not constitute any guarantee of service. The person that is signing the online booking form warrants that he/she has the authority to make the booking on behalf of all other persons included on the booking form. (On-line booking forms are deemed to have been signed by the persons submitting them.)
 
-In individual cases some tours will demand different payment plan, this information will be passed to the client before payment.
+In individual cases, some tours will demand different payment plans, this information will be passed to the client before payment.
 
 #### Price, Taxes and Fees
 
-All transactions are in Euros, Portugal legal tender. All shown prices include all Portuguese taxes, Government fees, except where noted. Wind Birds, Lda operates and supplies in Madeira Islands. Therefore it pays all taxes to Madeira Regional Government. No tours/trips are exempt of VAT, although this tax value is included in the prices shown.
+All transactions are in Euros, Portugal's legal tender. All shown prices include all Portuguese taxes, Government fees, except where noted. Wind Birds, Lda operates and supplies in Madeira Islands. Therefore it pays all taxes to Madeira Regional Government. No tours/trips are exempt of VAT, although this tax value is included in the prices shown.
 
-Invoices are processed no later than five days of the service or the payment, whichever comes first. Details of lead traveller are filled as purchasing entity and cannot be changed after the invoice is issued. Therefore, if you desire an invoice with a different purchasing entity you need to request it in advance (e.g. time of booking).
+Invoices are processed no later than five days after the service or the payment, whichever comes first. Details of lead traveller are filled as purchasing entity and cannot be changed after the invoice is issued. Therefore, if you desire an invoice with a different purchasing entity you need to request it in advance (e.g. time of booking).
 
 #### Booking Cancellation
 
@@ -20,17 +20,17 @@ Any cancellation by you of a booking must be notified to us in writing (email) o
 
 * Over 72 hours before the land tour: no costs to you
 * 72 to 24 hours before the tour: 100% of your deposit
-* On the 24 hours before the tour: 100% of final tour price
+* On the 24 hours before the tour: 100% of the final tour price
 
 The above rules do not apply to Deep Sea Pelagics (e.g. Zino's Petrel Sea Expedition), in this case, all bookings are definitive, and no refunds are possible for booking cancellations, although name change of the booking holder is possible.
 
 #### Bookings Date Change
 
-If you wish to transfer your booking to another day, this will be treated as a cancellation and rebooking, and the relevant cancellation charges will apply.
+If you wish to change your booking to another day, this is considered a cancellation and rebooking, and the relevant cancellation charges may apply.
 
 #### Trip or Tour Cancellation
 
-If hazard weather conditions occur, we can try to reschedule your tour to the nearest date possible, though not changing other tours previously booked to other clients. If the tour does not happen, we will refund you on 100%. In the case of this type cancellation, all deposits and other payments for the tour or tour extension will be reimbursed.
+If hazardous weather conditions occur, we can try to reschedule your tour to the nearest date possible, though not changing other tours previously booked to other clients. If the tour does not happen, we will refund you on 100%. In the case of this type cancellation, all deposits and other payments for the tour or tour extension will be reimbursed.
 
 We may have to cancel your tour in the event of unusual or unforeseen circumstances outside our control (i.e. casus fortuitus). For example technical problems with the boat or van, government action, war or threat of war, civil strife, terrorist activity, riot, natural or human-made disaster, disease outbreak, or severe weather conditions. If we have to cancel a tour/trip due to circumstances beyond our control, we shall refund to you.
 
@@ -52,18 +52,16 @@ On a refund, initiated by a client cancellation, if there are processing fees to
 
 #### Safety & Insurance
 
-Any medical problems and/or related dietary restrictions must be informed to us on the reservation or prior to your tour. It is extremely important to our staff to have this knowledge in the case of any arising problems.
+You must inform us of any medical problems or related dietary restrictions on the reservation. Our staff must have this knowledge in the case of any arising issues.
 
 Our prices include a personal accident and civil liability insurance, provided by a legally registered insurer in "Autoridade de Supervis&atilde;o de Seguros e Fundos de Pens&otilde;es", with the following coverage:
- - Civil liability at sea: 200 000 €
- - Civil liability in land: 50 000 €
- - Death or permanent disability in land: 35 000 €
- - Death or permanent disability at sea: 20 000 €
- - Hospitality expenses and repatriation: 3 500 €
+ - Civil liability: land 50 000 €; sea 200 000 €;
+ - Death or permanent disability: land 35 000 €; sea 20 000 €;
+ - Hospitality expenses and repatriation: 3 500 €.
 
 If you desire higher coverages or different, you should contract a travel insurance.
 
-Birdwatchers often carry a lot of expensive optical and photographic equipment. Our trip insurance does not provide sufficient cover and so, if you are not already covered under your household policy, we recommend you take out specialist insurance cover for your equipment.
+Birdwatchers often carry a lot of expensive optical and photographic equipment. Our trip insurance does not provide sufficient coverage. So, if you are not already covered under your household policy, we recommend you take out specialist insurance cover for your equipment.
 
 #### Species Observation
 
@@ -79,22 +77,22 @@ Please note that we do not allow the collecting of plants or animals during any 
 
 #### Refusal of Unaccompanied Minors
 
-Wind Birds does not accept bookings for Unaccompanied Minors (0 to 15 years old). All minors have to be accompanied by their adult friends or family, people that the minor trusts and assumes responsibility of the minors actions.
+Wind Birds does not accept bookings for Unaccompanied Minors (0 to 15 years old). All minors must be accompanied by their adult friends or family, people that the minor trusts and assumes responsibility for their actions.
 Minors that are 16 to 17 year old, parents or legal guardians can sign a waiver form taking responsibility for the minor action, though we recommend that know adults are present.
 
 #### Use of Safety Equipment
 
 Marine Lifejackets use is mandatory in Rigid Inflatable Boats, though in the swimming with dolphins trips you are allowed to remove the lifejacket before the swim.
 
-Use of seat belts in cars are mandatory by law and must be used at all times, they can only be unfasten until the car is safely parked.
+The use of seat belts in cars is mandatory by Law and must be used at all times, and they can only be unfastened until the vehicle is safely parked.
 
-Opening of car doors before a complete stop is also illegal.
+Opening car doors before a complete stop are also illegal.
 
-Declining to use safety equipment or not using properly, removes us from any liability compensation in case of accident.
+Declining to use the safety equipment properly removes us from any liability compensation in case of an accident.
 
 #### Discharge of Pressurized Air into the Lifejackets.
 
-To offer better comfort to our client we use pressurised air lifejackets in our sea operation. The discharge of the pressurised air lifejackets in situations that are not emergencies (e.g. negligence, accidental, kids play, fun) incur in a fee of €25 per life jacket, to cover service costs.
+To offer better comfort to our client, we use pressurised air lifejackets in our sea operation. The discharge of the pressurised air lifejackets in situations that are not emergencies (e.g. negligence, accidental, kids play, fun) incurs a fee of €30 per life jacket to cover service and inspection costs.
 
 #### Movement of Goods
 
@@ -106,47 +104,47 @@ Including the substances and drinks that are forbidden under Portuguese Law, app
 
 #### CCTV
 
-Closed-circuit television is use on particular land and sea trips. The filmed material can be utilised for law enforcement or Wind Birds video broadcasts. Video rights remain of Wind Birds.
+Closed-circuit television is use on particular land and sea trips. The filmed material can be utilised for Law enforcement or Wind Birds video broadcasts. Video rights remain of Wind Birds.
 
 #### Economic Espionage & Wildlife Risk
 
-We take our business and the protection of wildlife seriously, therefore if at any point we come across industrial espionage (e.g. doing a tour to later operate against us), we will take the proper legal action and report to criminal police. In the case of present or future wildlife risk (e.g. doing a tour to obtain the location of eggs for later stealing them), again we will take the proper legal action and report to criminal police. Both acts under Portuguese law are serious crimes, and you may face imprisonment until presented in Court. There will be no refunds on these circumstances.
+We take our business and the protection of wildlife seriously. Therefore, if we come across industrial espionage (e.g. doing a tour to later operate against us), we will take the proper legal action and report it to the criminal police. In case of present or future wildlife risk (e.g. doing a tour to obtain the location of eggs for later stealing them), we will take the proper legal action and report to the criminal police. Both acts under Portuguese Law are serious crimes, and you may face imprisonment until presented in Court. There will be no refunds in these circumstances.
 
 #### Anti-corruption
 
-You as a customer or potential customer will not receive or will be offered any bribe, kickback, payment, gift, or thing of value from any of our employees or agents in connection with our company. Reasonable gifts and entertainment provided in the ordinary course of business operation do not violate the above restriction (e.g. souvenir, merchandising, digital services). We extend this policy to members of the public, politicians and finance sector, where our services cannot be offered for free or at a rebate.
+As a customer or potential customer, you will not receive any bribe, kickback, payment, gift, or thing of value from any of our employees or agents in connection with our company. Reasonable gifts and entertainment provided in the ordinary business operation do not violate the above restriction (e.g. souvenirs, merchandising, digital services). We extend this policy to the public, politicians and the finance sector members, where we cannot offer our services for free or at a rebate.
 
 #### Political Campaign Activities
 
-Our services and media content cannot be used for political campaign activities or political parties gain, nor we provide those services. The services provided by the public sector are apolitical, and we would like to keep them that way.
+Politicians cannot use our services and media content for political campaign activities or political gain, nor do we provide those services. The services provided by the public sector are apolitical, and we would like to keep them that way.
 
-#### Nondiscriminatory Pricing
+#### Non-discriminatory Pricing
 
-Prices and services are provided in a non-discriminatory standard, i.e. equal price regardless of origin, residence, the gender of the clients. The opposite is a common practice among travel businesses but forbidden under law, report it to authorities and EU SOLVIT.
+We provide pricing and services in a non-discriminatory standard, i.e. equal price regardless of origin, residence, the gender of the clients. The opposite is a common practice among travel businesses but forbidden under Law. Please report it to authorities and EU SOLVIT.
 
-Discounts may be provided in some services based on the selling channel or for minors, based on their age. 
+Wind Birds may provide discounts on some services based on the selling channel or for minors based on age.
 
 #### PCI SSC Data Security Standards Compliance
 
-To provide a real-time payment and booking system Wind Birds, Lda complies with PCI-SSC DSS. Therefore we do not store financial records and payment card data. All this information is transmitted between the client browser and our bank. For our record, we keep the transaction authorization hash code, amounts charged and timestamp.
+To provide a real-time payment and booking system, Wind Birds, Lda complies with PCI-SSC DSS. Therefore we do not store financial records and payment card data. All this information is transmitted between the client browser and our bank. For our record, we keep the transaction authorisation hash code, amounts charged and timestamp.
 
-The stored data still allows us to recharge the client credit/debit card in the event of failure to provide payment at require times.
+The stored data still allows us to recharge the client's credit/debit card in the event of failure to provide payment at the required times.
 
 This compliance guarantees that we are not a client financial data breach point.
 
 #### Lost Property
 
- In the unfortunate event of lost property, clients of the specific tour will be contacted. Returning lost property generates a cost, the client is responsible for these costs.
+In the unfortunate event of lost property, Wind Birds will contact clients of the specific tour. Returning lost property generates costs, and the client is responsible for these costs.
 
 #### Digital Certificates & Timestamping
 
 The website [windbirds.co](https://windbirds.co/) with a valid SSL Certificate holds legal documents for Wind Birds, Lda and guarantees secure communication between clients and us.
 
-Under Portuguese Law documents electronically signed by our management with "Cartao de Cidadão" (Portuguese Citizen iD Card) have legal value. A copy of such document is stored on windbirds.co and is accessible via QR Code imprinted on the document. Note that this documents to be valid require as well to be digital sign by an Timestamping Authority.
+Under Portuguese Law and EU regulations, documents electronically signed by our management with "Cartao de Cidadão" (Portuguese Citizen iD Card) have legal value. A copy of such document is stored on windbirds.co and is accessible via QR Code imprinted on the document. Note that these documents, to be valid, require a digital sign by a Timestamping Authority and a SCAP (Sistema de Certificação de Atributos Profissionais) authentication.
 
 #### External Observer/Researcher/Law Enforcement Agent Charge
 
-A person that is not our staff or a client for recreation purpose, which travels on our boats and vans for an external professional reason (e.g. research funded by EU, law enforcement in mission.), that records by any form, any information related to vessel/vehicle, geolocation, audio, video and other forms of media, as well species, technical and other data is demanded to pay two hundred and fifty euros per hour. Moreover, in slots of an hour (i.e. for a trip of 2h10 minutes shall pay 3-hour slots, that is €750). Such travels have to be authorised by Wind Birds, Lda management and fully paid 48 hours in advance. That person is required to contract an independent personal accident insurance, as Wind Birds, Lda insurances do not cover non-leisure activities.
+A person that is not our staff or a client for recreation purpose, which travels on our boats and vans for an external professional reason (e.g. research funded by EU, Law enforcement in mission.), that records by any form, any information related to vessel/vehicle, geolocation, audio, video and other forms of media, as well species, technical and other data is demanded to pay two hundred and fifty euros per hour. Moreover, in slots of an hour (i.e. for a trip of 2h10 minutes shall pay 3-hour slots, that is €750). Such travels have to be authorised by Wind Birds, Lda management and fully paid 48 hours in advance. That person is required to contract an independent personal accident insurance, as Wind Birds, Lda insurances do not cover non-leisure activities.
 
 #### Mobile Alerts
 
@@ -168,4 +166,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It all provided on "As Is Basis".
 
-_Valid from September 1, 2020 v3.3.0_
+_Valid from June 1, 2022 v3.5.0_
