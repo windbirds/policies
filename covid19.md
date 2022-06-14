@@ -1,8 +1,10 @@
 # CoViD-19 Health & Safety Measures
 
-Due to the SARS-CoV-2 outbreak, we have taken a few more measures to avoid infections during our tours. We attended some training and committed to comply with the hygiene, health and safety guidelines of the Portuguese Health Authority (DGS), thus obtaining the "Clean & Safe" accreditation from Turismo de Portugal (Portuguese Tourism Authority).
+Due to the SARS-CoV-2 outbreak, we have taken a few more measures to avoid infections during our tours. We attended training and committed to comply with the hygiene, health and safety guidelines of the Portuguese Health Authority (DGS).
 
-This way, in order to protect the health and safety of our customers and staff, we all need to follow these rules:
+Our staff has completed the entire vaccination cycle for SARS-CoV-2.
+
+To continue the health and safety protection of our customers and staff, we all need to follow these rules:
 
 ### You Must Know
 
@@ -22,25 +24,25 @@ If you have any of the CoViD-19 or flu symptoms listed below, call us and cancel
 + headache
 + loss of taste or smell
 
+### Land Tours
 
-If you were tested at Madeira airport, only join the tour after receiving the negative result of the test made by the Madeira government. So please book your first tour with us at least 48 hours after landing to Madeira.
++ While inside vehicles, it is mandatory to wear a face mask which covers your mouth and nose at all times; masks with exhale valve are not accepted.
++ Without a face mask, you will not be allowed to join the tour, and there will be no refund.
 
+### Sea Trips
 
-### You Must Bring To The Tour
-
-+ It is mandatory to wear a cloth face which covers your mouth and nose at all times during the tour.
-+ Without a face covering cloth you will not be allowed to join the tour and there will be no refund.
-+ Your own hand sanitizer.
-
++ It is recommended to wear a face mask which covers your mouth and nose at all times during the tour;
 
 ### What We Do
 
++ Staff is trained to follow the hygiene, health and safety guidelines of the Portuguese Health Authority (DGS).
++ The staff gets temperature checks before starting their daily routine.
++ The team uses a Medical FFP2 mask or a Professional FFP2 mask.
 + No handshaking or any other physical contact between staff and customers
-+ We only take 5 people on the mini-bus or up to 7 if they are all from the same family group.
-+ Whenever the vehicle is stopped and we are around it, the doors and windows will be open to renovate the air. 
-+ After each tour/sea trip the vehicles and the boat are cleaned and disinfected and, 
-whenever possible the vehicles will be quarantined for at least 36 hours.
++ We only take five people on the mini-bus or up to 7 if they are all from the same family group.
++ Whenever the vehicle is stopped, and we are around it, the doors and windows will be open to renovate the air. 
++ After each tour/sea trip, the vehicles and the boat are cleaned and disinfected and, whenever possible, the vehicles are quarantined for at least 36 hours.
 
 
 
-_Updated July 1, 2020 v1.0 https://windbirds.co/covid19_
+_Updated April 20, 2022 v1.3 https://windbirds.co/covid19_
