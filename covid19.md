@@ -31,7 +31,8 @@ If you have any of the CoViD-19 or flu symptoms listed below, call us and cancel
 
 ### Sea Trips
 
-+ It is recommended to wear a face mask which covers your mouth and nose at all times during the tour;
++ Only if transfer is request from hotel to port, you will be required to wear a face mask which covers your mouth and nose at all times; masks with exhale valve are not accepted.
++ No mask will be required for on the boat.
 
 ### What We Do
 
@@ -39,10 +40,9 @@ If you have any of the CoViD-19 or flu symptoms listed below, call us and cancel
 + The staff gets temperature checks before starting their daily routine.
 + The team uses a Medical FFP2 mask or a Professional FFP2 mask.
 + No handshaking or any other physical contact between staff and customers
-+ We only take five people on the mini-bus or up to 7 if they are all from the same family group.
 + Whenever the vehicle is stopped, and we are around it, the doors and windows will be open to renovate the air. 
 + After each tour/sea trip, the vehicles and the boat are cleaned and disinfected and, whenever possible, the vehicles are quarantined for at least 36 hours.
 
 
 
-_Updated April 20, 2022 v1.3 https://windbirds.co/covid19_
+_Updated July 31, 2022 v1.4 https://windbirds.co/covid19_
