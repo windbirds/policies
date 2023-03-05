@@ -100,7 +100,7 @@ No products are allowed to be transported without written consent and in complia
 
 #### Forbidden Consumption
 
-Including the substances and drinks that are forbidden under Portuguese Law, applicable even in International Waters, Alcohol and Tobacco cannot be consumed inside the vans and rigid inflatable boats.
+It is strictly prohibited to consume alcohol and tobacco inside the vans and rigid inflatable boats, even in International Waters. This includes substances and drinks that are forbidden under Portuguese Law.
 
 #### CCTV
 
@@ -110,19 +110,23 @@ Closed-circuit television is use on particular land and sea trips. The filmed ma
 
 We take our business and the protection of wildlife seriously. Therefore, if we come across industrial espionage (e.g. doing a tour to later operate against us), we will take the proper legal action and report it to the criminal police. In case of present or future wildlife risk (e.g. doing a tour to obtain the location of eggs for later stealing them), we will take the proper legal action and report to the criminal police. Both acts under Portuguese Law are serious crimes, and you may face imprisonment until presented in Court. There will be no refunds in these circumstances.
 
-#### Anti-corruption
+#### Anti-Corruption
 
-As a customer or potential customer, you will not receive any bribe, kickback, payment, gift, or thing of value from any of our employees or agents in connection with our company. Reasonable gifts and entertainment provided in the ordinary business operation do not violate the above restriction (e.g. souvenirs, merchandising, digital services). We extend this policy to the public, politicians and the finance sector members, where we cannot offer our services for free or at a rebate.
+Our company strictly prohibits the acceptance of any form of bribe, kickback, payment, gift, or other valuable consideration by customers or potential customers from any of our employees or agents in connection with our business. However, we acknowledge that reasonable gifts and entertainment provided in the ordinary course of business are exempt from this prohibition, such as souvenirs, merchandise, and digital services.
+
+It should be noted that this policy extends to public officials, politicians, and members of the finance sector, among others. Consequently, we are unable to provide our services for free or at a reduced rate to these individuals.
+
+In sum, we take a strong stance against any form of corruption and expect all parties to comply with our anti-corruption policy.
 
 #### Political Campaign Activities
 
-Politicians cannot use our services and media content for political campaign activities or political gain, nor do we provide those services. The services provided by the public sector are apolitical, and we would like to keep them that way.
+Our services and media content are strictly prohibited for use by politicians engaging in political campaign activities or political gain. We do not provide such services to politicians for political purposes. It is our firm commitment to maintain an apolitical environment for our services in the public sector, and we shall continue to uphold this principle.
 
 #### Non-discriminatory Pricing
 
-We provide pricing and services in a non-discriminatory standard, i.e. equal price regardless of origin, residence, the gender of the clients. The opposite is a common practice among travel businesses but forbidden under Law. Please report it to authorities and EU SOLVIT.
+Wind Birds guarantees non-discriminatory pricing and services, ensuring equal pricing to all clients regardless of their origin, residence, or gender. Discriminatory practices are prohibited by law, and any such practices observed should be reported to the relevant authorities or EU SOLVIT.
 
-Wind Birds may provide discounts on some services based on the selling channel or for minors based on age.
+However, it is important to note that Wind Birds may offer discounts on certain services based on the selling channel or the age of the client (in the case of minors).
 
 #### PCI SSC Data Security Standards Compliance
 
@@ -166,4 +170,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It all provided on "As Is Basis".
 
-_Valid from June 1, 2022 v3.5.0_
+_Valid from March 1, 2023 v3.6.0_
