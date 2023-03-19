@@ -16,13 +16,13 @@ Invoices are processed no later than five days after the service or the payment,
 
 #### Booking Cancellation
 
-If you need to cancel your tour, please let us know either by email or phone call right away. Based on when you cancel, different fees may apply:
+If you need to cancel your tour, please let us know as soon as possible by email or phone call. Our cancellation fees are based on the time before your tour starts:
 
-* More than 72 hours before the tour: no cost to you
-* 72 to 24 hours before the tour: you'll lose your deposit
-* Within 24 hours of the tour: you'll be charged the full tour price
+* More than 72 hours: No charges
+* 72 to 24 hours: You lose your deposit
+* Within 24 hours: You are charged the full tour price
 
-For Deep Sea Pelagics (like Zino's Petrel Sea Expedition), cancellations aren't refundable. However, you can change the name of the booking holder.
+Exceptions: For Deep Sea Pelagic tours like Zino's Petrel Sea Expedition, bookings are final and cannot be refunded. However, you can change the name of the booking holder.
 
 #### Bookings Date Change
 
