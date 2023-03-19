@@ -16,17 +16,17 @@ Invoices are processed no later than five days after the service or the payment,
 
 #### Booking Cancellation
 
-Any cancellation by you of a booking must be notified to us in writing (email) or by a phone call and will take effect immediately, the following cancellation charges are applied, based on our estimated expenses and losses suffered as a result of your cancellation:
+If you need to cancel your tour, please let us know either by email or phone call right away. Based on when you cancel, different fees may apply:
 
-* Over 72 hours before the land tour: no costs to you
-* 72 to 24 hours before the tour: 100% of your deposit
-* On the 24 hours before the tour: 100% of the final tour price
+* More than 72 hours before the tour: no cost to you
+* 72 to 24 hours before the tour: you'll lose your deposit
+* Within 24 hours of the tour: you'll be charged the full tour price
 
-The above rules do not apply to Deep Sea Pelagics (e.g. Zino's Petrel Sea Expedition), in this case, all bookings are definitive, and no refunds are possible for booking cancellations, although name change of the booking holder is possible.
+For Deep Sea Pelagics (like Zino's Petrel Sea Expedition), cancellations aren't refundable. However, you can change the name of the booking holder.
 
 #### Bookings Date Change
 
-If you wish to change your booking to another day, this is considered a cancellation and rebooking, and the relevant cancellation charges may apply.
+If you'd like to switch your tour to a different day, it counts as canceling and rebooking. So, keep in mind that cancellation fees might apply.
 
 #### Trip or Tour Cancellation
 
@@ -170,4 +170,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It all provided on "As Is Basis".
 
-_Valid from March 1, 2023 v3.6.0_
+_Valid from March 18, 2023 v3.6.1_
