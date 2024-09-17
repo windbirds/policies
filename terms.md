@@ -34,9 +34,13 @@ If hazardous weather conditions occur, we can reschedule your tour to the neares
 
 We may have to cancel your tour in case of unusual or unforeseen circumstances outside our control (i.e. casus fortuitus). For example, technical problems with the boat or van, government action, war or threat of war, civil strife, terrorist activity, riot, natural or human-made disaster, disease outbreak, or severe weather conditions. If we have to cancel a tour/trip due to circumstances beyond our control, we shall refund to you.
 
+#### Harbour Authority and Official Notices
+
+Wind Birds Lda may cancel, postpone, or modify tours based on directives from harbour masters, maritime authorities, or other officials. This may occur without notice for safety or legal compliance. We will try to reschedule or refund according to our policies. Wind Birds Lda is not liable for inconveniences or costs resulting from such mandated changes or cancellations.
+
 #### Trip or Tour Status
 
-Full and transparent communication is the best way to trust in business. All tour status is broadcast via [x.com/windbirds](https://x.com/windbirds). As an extra, we will contact you via one of the following means and in this order: a short message (i.e. SMS) to the mobile phone on file or a hotel reception message (i.e. fax or phone call) or by the email supplied during the booking process.
+Complete and transparent communication is the best way to trust in business. All tour status is broadcast via [x.com/windbirds](https://x.com/windbirds). As an extra, we will contact you via one of the following means and in this order: a short message (i.e. SMS) to the mobile phone on file or a hotel reception message (i.e. fax or phone call) or by the email supplied during the booking process.
 
 We advise you that before the tour you check our status website, in the case of apparent bad weather we recommend that you call us +351 917777441 to check to status.
 
@@ -46,9 +50,9 @@ All money can only be refunded via the same initial method of payment (e.g. paid
 
 Refund processing times can take up to 30 days plus the times of the settlement agents (e.g. banks). If the services were booked directly, please get in touch with us to check the status of the refund.
 
-Due to Government fees required for certain outdoor activities, some of these values might not be fully refundable to you, since the Government is not refunding them to us. We will provide proper documentation in these unfortunate circumstances.
+Due to Government fees required for specific outdoor activities, some of these values might not be fully refundable to you since the Government is not refunding them to us. We will provide proper documentation in these unfortunate circumstances.
 
-On a refund initiated by a client cancellation, if there are processing fees to return the money, these will be deducted from the refund value.
+If processing fees to return the money are charged on a refund initiated by a client cancellation, these will be deducted from the refund value.
 
 #### Payments with Bitcoin Lightning Network
 
@@ -67,13 +71,13 @@ Our prices include personal accident and civil liability insurance, provided by 
  - Death or permanent disability: land 35 000 €; sea 20 000 €;
  - Hospitality expenses and repatriation: 3 500 €.
 
-If you desire higher coverages or different, you should contract travel insurance.
+If you desire higher coverage or something different, you should contract travel insurance.
 
-Birdwatchers often carry a lot of expensive optical and photographic equipment. Our trip insurance does not provide sufficient coverage. So, if you are not already covered under your household policy, we recommend you take out specialist insurance cover for your equipment.
+Birdwatchers often carry a lot of expensive optical and photographic equipment. Our trip insurance does not provide sufficient coverage. So, if you are not already covered under your household policy, we recommend taking out specialist insurance for your equipment.
 
 #### Species Observation
 
-Birds, Mammals and Flora: The species mentioned in the trip itineraries are meant as a guidance to what you might see. You should not expect to see everything mentioned, although you should see a good proportion if you participate fully in the tour and have good eyesight. We can only guarantee you that we will assist you to the best of our knowledge and capabilities.
+Birds, Mammals and Flora: The species mentioned in the trip itineraries are meant as a guidance to what you might see. You should not expect to see everything mentioned, although you should see a good proportion if you participate fully in the tour and have good eyesight. We can assure you that we will help you to the best of our knowledge and capabilities.
 
 #### Restrictions on Participants
 
@@ -81,7 +85,7 @@ Restrictions on participants are a matter of common sense, and we have no absolu
 
 Swimming with wild animals (i.e. whales and dolphins) requires the capability to swim in the ocean without external assistance, good sea conditions and the animals cannot be stressed. Staff may cancel swimming activities at the last minute for safety reasons.
 
-Please note that we do not allow the collecting of plants or animals during any tour.
+We do not allow the collecting of plants or animals during any tour.
 
 #### Refusal of Unaccompanied Minors
 
@@ -179,4 +183,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner's name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It is all provided on "As Is Basis".
 
-_Valid from January 16, 2024 v4.0.0_
+_Valid from September 17, 2024 v4.1.0_
