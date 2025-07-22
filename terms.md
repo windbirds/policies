@@ -66,12 +66,12 @@ By opting for this payment method, clients acknowledge the finality of the payme
 
 You must inform us of any medical problems or related dietary restrictions on the reservation. Our staff must have this knowledge in case of any issues arising.
 
-Our prices include personal accident and civil liability insurance, provided by a legally registered insurer in "Autoridade de Supervis&atilde;o de Seguros e Fundos de Pens&otilde;es", with the following coverage:
+All our prices include personal‐accident and civil‐liability insurance, underwritten by an insurer licensed by the Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), with the following limits:
  - Civil liability: land 50 000 €; sea 200 000 €;
- - Death or permanent disability: land 35 000 €; sea 20 000 €;
- - Hospitality expenses and repatriation: 3 500 €.
+ - Death or permanent disability: land 26 160 €; sea 20 000 €;
+ - Hospitality expenses and repatriation: land 4 579 €; sea 3 500 €.
 
-If you desire higher coverage or something different, you should contract travel insurance.
+If you require higher limits or different coverages, please arrange separate travel insurance. We also strongly recommend obtaining travel insurance due to restrictions enforced at Madeira Airport.
 
 Birdwatchers often carry a lot of expensive optical and photographic equipment. Our trip insurance does not provide sufficient coverage. So, if you are not already covered under your household policy, we recommend taking out specialist insurance for your equipment.
 
@@ -183,4 +183,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner's name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It is all provided on "As Is Basis".
 
-_Valid from September 17, 2024 v4.1.0_
+_Valid from July 14, 2025 v4.2.0_
