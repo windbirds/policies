@@ -40,9 +40,21 @@ Wind Birds Lda may cancel, postpone, or modify tours based on directives from ha
 
 #### Trip or Tour Status
 
-Complete and transparent communication is the best way to trust in business. All tour status is broadcast via [x.com/windbirds](https://x.com/windbirds). As an extra, we will contact you via one of the following means and in this order: a short message (i.e. SMS) to the mobile phone on file or a hotel reception message (i.e. fax or phone call) or by the email supplied during the booking process.
+Transparency and timely communication are important to us.
 
-We advise you that before the tour you check our status website, in the case of apparent bad weather we recommend that you call us +351 917777441 to check to status.
+The latest operational alerts and warnings affecting Wind Birds trips and tours are published at [windbirds.help](https://windbirds.help), our official platform for operational updates, including schedule changes, delays, and cancellations.
+
+Only alerts and warnings are published. If no active alerts or warnings are displayed, all trips and tours are operating as scheduled.
+
+We recommend checking [windbirds.help](https://windbirds.help) before your scheduled departure.
+
+As an additional service, we will make reasonable efforts to notify you of relevant changes using the contact information provided during booking, in the following order:
+
+- Email to the address provided during booking.
+- SMS to your registered mobile phone number.
+- Hotel reception, where applicable, by telephone or message.
+
+These additional notifications are provided as a courtesy and may be subject to communication delays or technical limitations. [windbirds.help](https://windbirds.help) remains the primary source for operational alerts and warnings.
 
 #### Refund & Procedure
 
@@ -183,4 +195,4 @@ Freira Conservation Project manages the content of freira.org. Wind Birds, Lda s
 
 These three wildlife information platforms are provided free of charge to all internet users and are edited by Catarina Correia-Fagundes and Hugo Romano. Birdwatchers may contribute with reports and data. Wind Birds, Lda will watermark materials provided with the copyright owner's name. The platforms try to provide accurate information, but in some cases, mistakes can occur. It is all provided on "As Is Basis".
 
-_Valid from July 14, 2025 v4.2.0_
+_Valid from November 6, 2025 v4.3.0_
